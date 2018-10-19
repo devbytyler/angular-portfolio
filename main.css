@@ -1,0 +1,17 @@
+#video-background { 
+    position: fixed;
+    top: -250px;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -100;
+    width:100%;
+}
+
+.jumbotron{
+    position: relative;
+    z-index:-101;
+    color: #fff;
+    font-weight: bold;
+  }
